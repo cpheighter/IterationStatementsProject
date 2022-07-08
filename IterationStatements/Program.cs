@@ -33,7 +33,7 @@ namespace IterationStatements
 
 
             }
-            while (num > 100);
+            while (num < 100);
             // <---- While your variable is less than 100
 
 
